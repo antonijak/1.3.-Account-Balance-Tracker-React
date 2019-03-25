@@ -57,7 +57,7 @@ class App extends Component {
     if (
       isNaN(e.target.value) ||
       e.target.value < 0 ||
-      e.target.value > 1000000000 ||
+      e.target.value > 100000000 ||
       e.target.value === "" ||
       e.target.value === " "
     ) {
