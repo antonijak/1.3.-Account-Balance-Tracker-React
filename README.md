@@ -26,7 +26,7 @@
 
 `> git clone https://github.com/antonijak/1.3.-Account-Balance-Tracker-React.git`
 
-`> cd 1.6.-Blog-App-Redux-and-Router`
+`> cd 1.3.-Account-Balance-Tracker-React`
 
 `> yarn install`
 
