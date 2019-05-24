@@ -1,8 +1,12 @@
 # Account Balance Tracker
 
-### This is a simple account balance tracker created using React.
-
 ### See [demo](https://distracted-joliot-d9690a.netlify.com/)
+
+## Technologies
+
+- React
+
+## Features
 
 - Takes description and amount for your income or expense
 
@@ -17,5 +21,15 @@
 - You can edit entry description inline
 
 - Saves your data to the local storage
+
+## Getting started
+
+`> git clone https://github.com/antonijak/1.3.-Account-Balance-Tracker-React.git`
+
+`> cd 1.6.-Blog-App-Redux-and-Router`
+
+`> yarn install`
+
+`> yarn start`
 
 ![](example.gif)
